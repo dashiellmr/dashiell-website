@@ -1,0 +1,8 @@
+# No one wants to see these.
+package-lock.json
+node_modules
+.vscode
+
+# Tailwind shenanigans
+src/static/output.css
+tailwind.config.js
